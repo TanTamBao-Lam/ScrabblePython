@@ -31,11 +31,11 @@ Let’s print out brownie_points to make sure we got it right.
 
 ### Score a Game
 9. Create a dictionary called player_to_words that maps players to a list of the words they have played. This table represents the data to transcribe into your dictionary:
-| player1 |	wordNerd | Lexi | Con | Prof Reader |
-|--------|----------|------|-----|-------------|
-| BLUE |	EARTH | ERASER | ZAP |
-| TENNIS | EYES | BELLY | COMA |
-| EXIT |	MACHINE |	HUSKY |	PERIOD |
+ player1 |	wordNerd | Lexi | Con | Prof Reader
+--------|----------|------|-----|-------------
+ BLUE |	EARTH | ERASER | ZAP 
+ TENNIS | EYES | BELLY | COMA 
+ EXIT |	MACHINE |	HUSKY |	PERIOD 
 
 
 10. Create an empty dictionary called player_to_points.
