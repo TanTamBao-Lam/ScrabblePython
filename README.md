@@ -1,0 +1,2 @@
+# ScrabblePython
+Python Scrabble Exercise
